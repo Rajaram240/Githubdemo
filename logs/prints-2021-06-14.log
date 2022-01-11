@@ -1,0 +1,9 @@
+21:09:38.194 [main] ERROR PackA.demo - object is not present
+21:09:38.198 [main] FATAL PackA.demo - fatal
+21:11:23.215 [main] DEBUG PackB.demo - I am debugging
+21:11:23.218 [main] INFO  PackB.demo - object is present
+21:11:23.218 [main] ERROR PackB.demo - object is not present
+21:11:23.218 [main] FATAL PackB.demo - fatal
+16:22:12.043 [main] DEBUG PackB.demo - I am debugging
+16:22:12.070 [main] INFO  PackB.demo - object is present
+16:22:12.071 [main] ERROR PackB.demo - object is not present
